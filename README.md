@@ -1,0 +1,1 @@
+# L-gica_dos_Predicados--SAT
